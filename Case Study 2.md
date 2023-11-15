@@ -14,7 +14,7 @@
 -	The green color that is used comfortable for the eye and it enhances the readability and aligns with common financial app aesthetics.
 
 -	This screenshot shows simple straight forward interface that many users who are seeking simplicity, such as older individuals or those new to financial apps would appreciate. On the other hand more advanced features can be included in other sections of the app for users who might appreciate more advanced features and customizations.
-
+#
 ![Alt text](2.png)
 ## In this screenshot this app covers different goals that a financial app might have from managing users accounts to perform transactions and display the accounts detail. 
 -	While the app provides high contrast between the background and the important texts to improve readability, the choice of background color could be more aligned with financial themes. Using that much of different colors doesn’t provide the users with trust and security feelings.
