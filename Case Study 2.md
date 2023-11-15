@@ -1,6 +1,6 @@
 # In  this study case I will analyze the UI/UX for fictional applications. One of the most examples of financial app I found informative and provide good user experience is the page in the following screenshots.
 
-![](file:///C:/Users/tsh86/OneDrive/Desktop/UI/Screenshot%202023-11-14%20195952.png)
+![Alt text](1.png)
 ## The purpose of this page is tracking the monthly expenses for the user. Starting from the top of the page the app clearly shows for which period the shown records are, along with the arrow that indicate the user can choose which month they want to display. The number of the remaining many takes the right amount of the screen that is enough to catch the user eye without exaggeration and providing plenty of space for more information. 
 -	The progress bar provides good visual representation with more clarification about the money spent and it will be more effective if it changes color as the user nears their spending limits.
 -	What can I add to this page to improve the user experience is the option to choose what is the number that is displayed. Is it the remaining amount or spending amount. That is by clicking on “Left button”.
@@ -15,8 +15,7 @@
 
 -	This screenshot shows simple straight forward interface that many users who are seeking simplicity, such as older individuals or those new to financial apps would appreciate. On the other hand more advanced features can be included in other sections of the app for users who might appreciate more advanced features and customizations.
 
-![](file:///C:/Users/tsh86/OneDrive/Desktop/UI/original-13c0d22d61b07021304f8c561b32b8c4.png)
-
+![Alt text](2.png)
 ## In this screenshot this app covers different goals that a financial app might have from managing users accounts to perform transactions and display the accounts detail. 
 -	While the app provides high contrast between the background and the important texts to improve readability, the choice of background color could be more aligned with financial themes. Using that much of different colors doesn’t provide the users with trust and security feelings.
 -	The image that is displayed on the main page is descriptive and suitable for goal of the app.
