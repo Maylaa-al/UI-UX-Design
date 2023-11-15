@@ -32,6 +32,6 @@
 ## As a conclusion the key elements that makes the app successful are:
 -	User-Centric Design
 -	Ensure readability and accessibility by maintaining high contrast between text and background
--	Maintaining well organized layout and intuitive navigation
-Some obstacles I might face maintaining balance between simplicity for novice users and advanced features for experienced users.
+-	Maintaining well organized layout and intuitive navigation.
+## Some obstacles I might face maintaining balance between simplicity for novice users and advanced features for experienced users.
 
